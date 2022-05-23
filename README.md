@@ -24,6 +24,6 @@ El proyecto trata ser accesible y colaborativo con los jóvenes ansiosos por apr
 
 ### Contacto
 
-mail to: fablab@ufps.edu.co
-Facebook: https://www.facebook.com/people/FabLab-C%C3%BAcuta/100079157466312/
-YouTube Channel: https://youtube.com/channel/UCRMAf8qq5-xnYF7mbv79c4w
+* mail to: fablab@ufps.edu.co
+* Facebook: https://www.facebook.com/people/FabLab-C%C3%BAcuta/100079157466312/
+* YouTube Channel: https://youtube.com/channel/UCRMAf8qq5-xnYF7mbv79c4w
